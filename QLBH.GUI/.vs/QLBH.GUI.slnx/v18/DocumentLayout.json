@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0074F7C-0EAF-2D42-3305-737CA70643FD}|..\\QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\admin\\downloads\\qlbh\\qlbh.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0074F7C-0EAF-2D42-3305-737CA70643FD}|..\\QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\admin\\downloads\\qlbh\\qlbh.dal\\dalloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0074F7C-0EAF-2D42-3305-737CA70643FD}|..\\QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\admin\\downloads\\qlbh\\qlbh.dal\\dalsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092AF0AA-4F99-F3A8-A1D0-AA7C4422D031}|..\\QLBH.DTO\\QLBH.DTO.csproj|c:\\users\\admin\\downloads\\qlbh\\qlbh.dto\\dtosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092AF0AA-4F99-F3A8-A1D0-AA7C4422D031}|..\\QLBH.DTO\\QLBH.DTO.csproj|c:\\users\\admin\\downloads\\qlbh\\qlbh.dto\\dtoloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "..\\QLBH.DAL\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DAL\\DBConnection.cs",
+              "RelativeToolTip": "..\\QLBH.DAL\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T07:45:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALLoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DAL\\DALLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "..\\QLBH.DAL\\DALLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DAL\\DALLoaiSanPham.cs",
+              "RelativeToolTip": "..\\QLBH.DAL\\DALLoaiSanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T06:55:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DAL\\DALSanPham.cs",
+              "RelativeDocumentMoniker": "..\\QLBH.DAL\\DALSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DAL\\DALSanPham.cs",
+              "RelativeToolTip": "..\\QLBH.DAL\\DALSanPham.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T06:55:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTOSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DTO\\DTOSanPham.cs",
+              "RelativeDocumentMoniker": "..\\QLBH.DTO\\DTOSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DTO\\DTOSanPham.cs",
+              "RelativeToolTip": "..\\QLBH.DTO\\DTOSanPham.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T06:54:53.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTOLoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DTO\\DTOLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "..\\QLBH.DTO\\DTOLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QLBH\\QLBH.DTO\\DTOLoaiSanPham.cs",
+              "RelativeToolTip": "..\\QLBH.DTO\\DTOLoaiSanPham.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T06:54:37.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
